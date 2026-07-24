@@ -1,0 +1,6 @@
+{
+  "name": "BalanceLog",
+  "description": "iOS native style vertigo and balance episode tracking app for recording attacks, symptoms, triggers, charts, monthly calendar overview, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
